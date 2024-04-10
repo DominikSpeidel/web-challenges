@@ -1,0 +1,1 @@
+because button 1 and button 2 of Component 1 as well as Component 2 are using the same use State we have to copy the use state to the parent und give the Components via props functions for reupdating use state wich is situatet in the parent
